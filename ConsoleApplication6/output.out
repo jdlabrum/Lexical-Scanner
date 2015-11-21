@@ -1,0 +1,84 @@
+Token     Token Type
+-----------------------
+10        Integer
+rem       Reserved Word
+12        Integer
+input     Reserved Word
+x1        Variable
+,         Delimiter
+y         Variable
+13        Integer
+if        Reserved Word
+x1        Variable
+<         Delimiter
+y         Variable
+then      Reserved Word
+goto      Reserved Word
+15        Integer
+14        Integer
+z         Variable
+=         Delimiter
+x1        Variable
+-         Delimiter
+y         Variable
+11        Integer
+goto      Reserved Word
+16        Integer
+15        Integer
+z         Variable
+=         Delimiter
+x1        Variable
++         Delimiter
+y         Variable
+16        Integer
+print     Reserved Word
+x1        Variable
+,         Delimiter
+y         Variable
+,         Delimiter
+z         Variable
+17        Integer
+for       Reserved Word
+i         Variable
+=         Delimiter
+1         Integer
+to        Reserved Word
+12        Integer
+step      Reserved Word
+5         Integer
+18        Integer
+print     Reserved Word
+i         Variable
+19        Integer
+next      Reserved Word
+i         Variable
+20        Integer
+input     Reserved Word
+st$       Variable
+21        Integer
+print     Reserved Word
+"         Delimiter
+Improper usage: $
+",        Delimiter
+st%       Variable
+22        Integer
+input     Reserved Word
+x         Variable
+23        Integer
+if        Reserved Word
+x         Variable
+>=        Delimiter
+y1        Variable
+then      Reserved Word
+x         Variable
+=         Delimiter
+y         Variable
+^         Delimiter
+3         Integer
+24        Integer
+print     Reserved Word
+x1        Variable
+,         Delimiter
+Illegal character: #
+25        Integer
+end       Reserved Word

@@ -1,0 +1,6 @@
+ReservedWord Integer NewToken Delimeter NewToken NewToken NewToken NewToken
+ReservedWord Variable NewToken Delimeter NewToken NewToken NewToken NewToken
+Variable Variable NewToken Delimeter NewToken NewToken NewToken NewToken
+ReservedWord Integer Real Delimeter NewToken NewToken NewToken NewToken
+ReservedWord Real NewToken Delimeter NewToken NewToken NewToken NewToken
+ReservedWord Integer NewToken NewToken NewToken NewToken NewToken NewToken

@@ -1,0 +1,13 @@
+1	Load character and continue
+2	Compare with table of reserved words, print token, reinitialize token
+3	Print token, reinitialize token
+4	Print token, write "Improper usage", print character, reinitialize token
+5	Write "Improper usage", print character
+6	Continue
+7	Write "Illegal character", print character
+8	Compare with table of reserved words, print token, reinitialize token, load char
+9	Print token, reinitialize token, load character
+10	Load character, change state to variable, print token, reinitialize token
+11	Compare with table of reserved words, print token, write "Illegal character", print char
+12	Load character, print token, reinitialize token
+13	Print token, write "Illegal Character", print character, reinitialize token
